@@ -21,13 +21,10 @@ commercially successful tertiary recovery methods along with thermal methods. Th
 field-scale inverted 5-spot patterned model. Using a field-scale model, the CO2 injection will be simulated
 for the last
 
-## Workflow
+## Results
 
-![Workflow](https://user-images.githubusercontent.com/68789630/158083528-a9fc815a-09e5-4545-a4d9-473849082b9d.png)
-
-## Base and alternative models
-
-![models](https://user-images.githubusercontent.com/68789630/147497087-e4f79ee5-55d1-4764-8ff5-03d33f2c6202.jpg)
+![results1](https://user-images.githubusercontent.com/68789630/158083592-55395400-48d1-4564-a2f5-b0584cf4ad00.jpg)
+![results2](https://user-images.githubusercontent.com/68789630/158083595-8ebdba74-a8d0-4c56-b37f-a712c805ba42.jpg)
 
 ## Files
 - project presentation
