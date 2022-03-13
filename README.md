@@ -23,7 +23,7 @@ for the last
 
 ## Workflow
 
-![workflow](https://user-images.githubusercontent.com/68789630/147454653-ee1340f1-b02c-43fc-81ba-fcebfd954f72.jpg)
+![Workflow](https://user-images.githubusercontent.com/68789630/158083528-a9fc815a-09e5-4545-a4d9-473849082b9d.png)
 
 ## Base and alternative models
 
