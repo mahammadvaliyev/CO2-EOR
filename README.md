@@ -1,5 +1,5 @@
 # CO2-EOR
-Sensitivity study and Assisted History Matching in a shale gas reservoir using CMG.
+CO2-EOR study in a shale  reservoir using CMG.
 
 ## Summary
 
